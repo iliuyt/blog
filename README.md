@@ -1,2 +1,2 @@
-## [iliuyt 的博客](https://github.com/iliuyt/blog/issues)
+## [我的日常速记](https://github.com/iliuyt/blog/issues)
 
