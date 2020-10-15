@@ -30,3 +30,4 @@ mkdir -p ~/docker/redis/data  && \
 mkdir -p ~/docker/mysql/data  && \
 mkdir -p ~/docker/mongodb/data  && \
 mkdir -p ~/docker/drone/data  && \
+echo "install success"
